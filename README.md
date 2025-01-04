@@ -1,1 +1,3 @@
 # blog
+
+## Setup Mac Mini
